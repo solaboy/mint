@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4842D7B6aD1D927E8845C86a7a834c4f2fB424f6",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x4842d7b6ad1d927e8845c86a7a834c4f2fb424f6",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Ayodeji1666 Fiverr NFT",
+  "SYMBOL": "AYFIVNFT",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
